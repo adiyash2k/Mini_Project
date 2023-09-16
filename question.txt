@@ -1,0 +1,35 @@
+Q: What is the capital of France?
+O: London
+O: Berlin
+O: Paris
+A: 3
+
+Q: What is 2 + 2?
+O: 3
+O: 4
+O: 5
+A: 2
+
+Q: What is the largest planet in our solar system?
+O: Earth
+O: Mars
+O: Jupiter
+A: 3
+
+Q: Who wrote the play "Romeo and Juliet"?
+O: Charles Dickens
+O: William Shakespeare
+O: Jane Austen
+A: 2
+
+Q: What is the capital of Japan?
+O: Beijing
+O: Tokyo
+O: Seoul
+A: 2
+
+Q: What is the chemical symbol for gold?
+O: Go
+O: Ag
+O: Au
+A: 3
